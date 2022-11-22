@@ -38,7 +38,7 @@ background-color: white;
     font-weight: bold;
 }
 .hero{
-    background-image: url(img/ilmu-komputer.png);
+    background-image: url(ilmu-komputer.png);
     height: 350px;
     background-size: cover;
     border-top: solid 5px salmon;
