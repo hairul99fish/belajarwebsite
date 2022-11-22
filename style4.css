@@ -1,0 +1,78 @@
+
+body{
+background-color: #eaeaea;
+font: 16px/28px arial, sans-serif;
+color: #333;
+background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/restaurant.png);
+}
+
+.container{
+width: 800px;
+margin: auto;
+background-color: white;
+}
+.header{
+    padding: 20px;
+}
+.header .judul{
+    font-size: 40px;
+    font-weight: bold;
+    color: royalblue;
+    margin-left: 37px;
+    transition: all 0.4s ease-in-out;
+}
+.header ul li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.header a:hover  {
+    background-color: rgb(16, 124, 225);
+    color: white;
+    transition: all 0.4s ease-in-out;
+}
+.header a{
+    text-decoration: none;
+    color: salmon;
+    font-size: 17px;
+    font-weight: bold;
+}
+.hero{
+    background-image: url(img/ilmu-komputer.png);
+    height: 350px;
+    background-size: cover;
+    border-top: solid 5px salmon;
+    border-bottom: solid 5px lightskyblue;
+    border-radius: 10px;
+
+}
+.content{
+    padding: 20px;
+}
+.content h2{
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: -10px;
+
+}
+.content .penulis{
+    font-size: 15px;
+    margin-top: -10px;
+}
+.footer{
+    background-color: #333;
+}
+.footer .copy{
+    color: #eaeaea;
+    text-align: center;
+    font-size: 13px;
+    padding: 10px;
+}
+.p1 {
+    font-size: 13px;
+}
+.penulis a{
+    text-decoration: none;
+    color: salmon;
+    
+}
